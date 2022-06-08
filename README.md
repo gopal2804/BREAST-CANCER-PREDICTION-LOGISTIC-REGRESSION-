@@ -1,5 +1,5 @@
 # BREAST-CANCER-PREDICTION-LOGISTIC-REGRESSION-
-# BREAST-CANCER-PREDICTION-LOGISTIC-REGRESSION-
+
 ## Problem statement
 In the given dataset you have to predict weather the cancer is <code>benign</code> or <code>malignant</code> 
 ## Attribute information
